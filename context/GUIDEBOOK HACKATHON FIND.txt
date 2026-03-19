@@ -1,0 +1,665 @@
+GUIDEBOOK
+HACKATHON
+FIND IT (Future Innovation and Discovery Information
+Technology) merupakan acara tahunan yang
+diselenggarakan oleh DTETI FT UGM. Event ini mencakup
+pameran IT Fest serta berbagai kompetisi, seperti
+Competitive Programming, Data Analytics Competition,
+Hackathon, Capture the Flag, UX Competition, dan
+Informatics Competition. FIND IT bertujuan menjadi
+wadah pengembangan minat dan potensi masyarakat di
+bidang teknologi informasi sekaligus memperkenalkan
+dunia TI kepada masyarakat luas di era Revolusi Industri
+5.0.
+FIND IT! 2026
+1.Seluruh peserta wajib mematuhi ketentuan-ketentuan yang
+berlaku selama Find IT! 2026, baik ketentuan umum maupun
+ketentuan setiap acara atau perlombaan.
+2.Peserta dilarang membawa benda-benda tajam, senjata api,
+bahan peledak, minuman keras, dan narkoba ketika mengikuti
+acara maupun perlombaan Find IT! 2026. Jika benda-benda
+tersebut ditemukan, maka akan disita oleh pihak panitia dan tidak
+akan dikembalikan.
+3.Perlombaan Find IT! 2026 dilaksanakan secara daring (dalam
+jaringan) dan luring (luar jaringan), tergantung dari masing-masing
+perlombaan tersebut.
+4.Panitia berhak menggunakan video peserta sebagai sarana
+promosi Find IT! selanjutnya.
+5.Peserta wajib menjaga sportivitas dalam bertanding dan menjalin
+semangat persahabatan dengan siapapun.
+6.Peserta dilarang keras melakukan pemalsuan identitas.
+7.Panitia TIDAK BERTANGGUNG JAWAB atas kendala jaringan
+internet, perangkat yang digunakan masing-masing peserta, serta
+gangguan teknis yang dialami dari rumah masing-masing peserta.
+8.Setiap tim maupun individu yang mendaftar, wajib memenuhi
+kelengkapan administrasi sebagai syarat mengikuti Find IT! 2026.
+9.Keputusan panitia dan juri merupakan keputusan yang mutlak dan
+tidak dapat diganggu gugat.
+10.Setiap tim maupun individu wajib hadir pada technical meeting.
+Tim atau individu yang tidak hadir pada technical meeting
+dianggap menyetujui semua ketentuan.
+Ketentuan Umum
+Pada tahun 2026, Hackathon Find IT! hadir dengan format
+revolusioner bertajuk "The AI Marathon". Berbeda dengan
+kompetisi konvensional yang hanya menguji ide,
+kompetisi ini dirancang untuk menguji Ketangkasan Teknis
+(Technical Agility) dan Kemampuan Integrasi Sistem yang
+kokoh.
+Kompetisi ini menantang peserta untuk tidak hanya
+merancang solusi di atas kertas, tetapi juga membangun
+model kecerdasan buatan (AI) yang nyata, adaptif
+terhadap batasan teknis (constraints), dan mampu
+diimplementasikan menjadi produk aplikasi utuh dalam
+tekanan waktu 24 jam secara luring (offline) di Universitas
+Gadjah Mada.
+Kompetisi ini terdiri dari tiga tahapan eliminasi:
+Tahap 1 (Abstrak): Seleksi ide inovasi, urgensi masalah,
+dan pemilihan track AI.
+Tahap 2 (Model Development dan Proposal):
+Pengembangan model AI berdasarkan batasan teknis
+khusus dan penyusunan proposal teknis.
+Tahap 3 (The Marathon): Integrasi sistem dan
+pengembangan produk akhir (MVP) dalam 24 jam.
+Deskripsi Umum
+Digital Sovereignty merujuk pada kemampuan bangsa
+untuk mengatur, mengelola, dan mengendalikan aset
+digitalnya secara mandiri mencakup data, infrastruktur,
+dan teknologi tanpa ketergantungan absolut pada pihak
+luar. Konsep ini menekankan kemandirian teknologi
+nasional dan pemanfaatan data yang mengutamakan
+kepentingan serta keamanan bangsa, sekaligus melindungi
+privasi warga negara dalam ekosistem teknologi yang
+tangguh dan berdaulat.
+Empowering National Resilience with Adaptive
+Intelligence adalah penguatan sektor-sektor esensial
+(kesehatan, pertanian, ekonomi mikro) melalui kecerdasan
+buatan yang adaptif terhadap perubahan skenario dan
+batasan teknis. Teknologi tidak boleh kaku, melainkan
+harus menjadi alat tangguh yang membantu manusia
+menutup celah permasalahan di tengah dinamika zaman.
+Melalui sistem yang adaptif, teknologi menjadi tulang
+punggung ketahanan nasional dalam menghadapi
+tantangan masa depan.
+Tema
+“Digital Sovereignty: Empowering National
+Resilience with Adaptive Intelligence”
+1. Smart Governance & Public Service
+Transformasi layanan publik melalui teknologi cerdas
+untuk menciptakan birokrasi yang efisien, transparan, dan
+akuntabel. Meliputi otomatisasi proses administratif
+kompleks, pengolahan dokumen legal secara masif, dan
+peningkatan interaksi pemerintah-warga negara.
+Bertujuan memangkas hambatan birokrasi tradisional dan
+menciptakan pelayanan publik yang responsif melalui AI
+dan tata kelola data berdaulat.
+2. Digital Economy & MSME Resilience
+Penguatan UMKM agar tangguh menghadapi dinamika
+pasar digital kompetitif. Meliputi digitalisasi operasional
+bisnis, analisis pola pasar mikro, dan optimasi rantai
+pasok lokal. Bertujuan memberdayakan pelaku UMKM
+untuk menutup celah keterbatasan informasi dan
+meningkatkan kemandirian ekonomi nasional melalui
+solusi cerdas yang adaptif.
+Subtema
+3. Humanitarian & Crisis Management
+Pemanfaatan AI adaptif untuk mitigasi bencana,
+pengelolaan darurat, dan penanganan krisis sosial secara
+cepat dan tepat sasaran. Meliputi pengalokasian sumber
+daya darurat, analisis situasi area terdampak melalui
+pengindraan visual, dan pemantauan sentimen publik.
+Bertujuan mengatasi hambatan distribusi informasi dan
+bantuan untuk meningkatkan kesiapsiagaan serta kualitas
+hidup masyarakat saat krisis.
+Subtema
+1. Track A: The Edge Vision (Computer Vision)
+Kategori ini berfokus pada pengembangan sistem visi
+komputer yang mampu memproses data visual (citra atau
+video) untuk mengekstraksi informasi yang bermakna.
+Tantangan utama dalam kategori ini bukan hanya pada
+tingkat akurasi deteksi, melainkan pada efisiensi
+komputasi.
+Peserta ditantang untuk menciptakan arsitektur model
+yang ringan dan optimal agar dapat diimplementasikan
+pada perangkat dengan sumber daya terbatas (resourceconstrained environments), seperti perangkat seluler,
+drone, atau sensor IoT, tanpa ketergantungan pada
+komputasi awan (cloud computing) yang berat.
+Fokus Pengembangan: Deteksi objek, klasifikasi citra,
+segmentasi, atau pengenalan pola visual.
+2. Track B: The Privacy Brain (Natural Language
+Processing)
+Kategori ini berfokus pada pengolahan bahasa alami dan
+Generative AI yang memprioritaskan kedaulatan serta
+privasi data. Dalam sektor esensial, data sensitif tidak
+boleh diproses oleh pihak ketiga yang tidak terautorisasi.
+Kategori Model AI (AI Tracks)
+Oleh karena itu, peserta diwajibkan membangun solusi
+kecerdasan bahasa yang beroperasi secara mandiri. Solusi
+harus mampu memahami konteks bahasa lokal atau
+domain spesifik tanpa mengirimkan data ke server
+eksternal. Kategori ini menguji kemampuan peserta dalam
+melakukan fine-tuning dan optimasi Small Language
+Models (SLM).
+Fokus Pengembangan: Chatbot cerdas, analisis sentimen,
+peringkasan dokumen, atau ekstraksi informasi tekstual.
+3. Track C: The Explainable Oracle (Predictive Analytics)
+Kategori ini berfokus pada analisis data terstruktur, timeseries, atau data numerik untuk memprediksi tren dan
+pola masa depan. Dalam pengambilan keputusan
+strategis, akurasi prediksi saja tidak cukup; penggunanya
+harus memahami alasan di balik keputusan yang diambil
+oleh AI.
+Peserta ditantang untuk membangun model prediktif
+yang tidak hanya presisi tetapi juga transparan. Sistem
+harus menghindari pendekatan "Kotak Hitam" (Black Box)
+dengan menyediakan mekanisme yang dapat menjelaskan
+variabel-variabel yang mempengaruhi hasil prediksi
+kepada pengguna akhir.
+Fokus Pengembangan: Peramalan (forecasting), deteksi
+anomali, analisis risiko, atau pemodelan regresi.
+Kategori Model AI (AI Tracks)
+Seluruh peserta wajib mematuhi ketentuan-ketentuan
+yang berlaku di setiap tahapan Hackathon Find IT! 2026.
+Ketentuan ini berlaku untuk semua peserta mulai dari
+pendaftaran hingga pengumuman hasil akhir.
+1. Kualifikasi dan Status Peserta
+Peserta merupakan mahasiswa aktif jenjang D3, D4,
+atau S1 dari perguruan tinggi di seluruh Indonesia.
+Peserta bukan merupakan panitia aktif Find IT! 2026.
+2. Komposisi dan Kelompok Tim
+Satu tim terdiri dari 1–5 orang peserta.
+Tim disarankan memiliki komposisi peran yang
+seimbang untuk menunjang pengerjaan Software, AI,
+dan bisnis.
+Anggota tim dapat berasal dari instansi/institusi yang
+sama maupun berbeda.
+3. Orisinalitas dan Inovasi
+Inovasi yang diajukan harus merupakan karya asli
+(bukan plagiarisme) sesuai dengan tema dan salah
+satu subtema yang telah ditentukan.
+Inovasi yang diajukan harus belum pernah
+memenangkan kompetisi sejenis sebelumnya dan juga
+belum pernah diajukan ke lomba lomba sejenis
+sebelumnya.
+Syarat dan Ketentuan Peserta
+4. Kehadiran dan Partisipasi
+Technical Meeting: Setiap tim sangat diharapkan untuk
+hadir pada technical meeting yang dijadwalkan. Tim
+atau anggota yang tidak hadir dianggap telah
+menyetujui seluruh ketentuan yang berlaku.
+Grand Final (Tahap 3): Untuk tahap Grand Final yang
+dilaksanakan luring, minimal satu anggota tim wajib
+hadir secara fisik di lokasi. Jika tidak ada perwakilan
+yang hadir, tim akan otomatis didiskualifikasi.
+Konfirmasi kehadiran: Tim yang lolos ke tahap final
+wajib mengkonfirmasi kehadiran mereka setidaknya 1
+minggu sebelum acara dimulai. Tim yang tidak
+mengkonfirmasi akan dianggap mengundurkan diri dan
+didiskualifikasi.
+5. Pembayaran dan Deadline
+Pendaftaran Tahap 1 tidak dikenakan biaya.
+Tim yang lolos Tahap 1 wajib melakukan pembayaran
+biaya registrasi sebesar Rp160.000,00 per tim sesuai
+jadwal yang ditentukan panitia.
+Tim yang tidak melakukan pembayaran sesuai
+deadline akan dianggap gugur dan tidak berhak
+mengikuti tahap selanjutnya, meskipun telah lolos
+seleksi.
+Tidak ada pengembalian dana (non-refundable)
+apabila tim keluar, diskualifikasi, atau mengundurkan
+diri setelah pembayaran dilakukan.
+Syarat dan Ketentuan Peserta
+6. Keputusan Juri dan Panitia
+Keputusan dewan juri dan panitia bersifat final dan
+mutlak, tidak dapat diganggu gugat, dan tidak ada
+upaya banding atau proses appeal.
+Apabila terdapat peraturan yang belum ditetapkan
+dalam guidebook ini, panitia berhak menetapkan
+aturan tambahan dan akan mengumumkannya melalui
+website resmi, grub WhatsApp dan akun media sosial
+resmi Find IT! 2026.
+Peserta diwajibkan mematuhi seluruh pengumuman
+dan perubahan peraturan yang dikeluarkan panitia
+sepanjang rangkaian kompetisi berlangsung.
+7. Tindakan Diskualifikasi
+Panitia berhak mendiskualifikasi tim apabila
+ditemukan bukti:
+Kecurangan atau plagiarisme dalam karya
+Pelanggaran peraturan kompetisi sebelum, saat,
+atau sesudah tahapan kompetisi
+Pelanggaran etika akademik atau norma sosial
+Tindakan yang mengganggu kelancaraan kompetisi
+Tim yang didiskualifikasi tidak berhak memperoleh
+hadiah, meskipun telah melewati tahap sebelumnya.
+Apabila diskualifikasi terjadi setelah pengumuman
+pemenang, panitia berhak mencabut gelar juara dan
+hadiah yang telah diberikan.
+Syarat dan Ketentuan Peserta
+8. Komunikasi dan Informasi
+Pengumuman penting terkait Hackathon Find IT! 2026
+akan disampaikan melalui:
+Website resmi: find-it.id
+Email ketua tim atau grub WhatsApp resmi
+Hacathon Find IT! 2026
+Akun media sosial resmi Find IT! 2026
+Peserta bertanggung jawab untuk selalu memantau
+pengumuman resmi dari panitia
+Perubahan atau penambahan ketentuan akan
+diumumkan melalui saluran resmi di atas, dan peserta
+dianggap telah mengetahui dan menyetujuinya.
+Syarat dan Ketentuan Peserta
+Timeline
+Agenda Waktu
+Pendaftaran & Submit Proposal 9 - 28 Februari 2026
+Pengumuman Lolos Tahap 1 15 Maret 2026
+Pembayaran Biaya Lomba 16 - 22 Maret 2026
+Pengerjaan & Pengumpulan
+Tahap 2
+23 Maret - 12 April 2026
+Pengumuman Finalis 1 Mei 2026
+Technical Meeting (Daring) 3 Mei 2026
+The AI Marathon (24 Jam) 14 - 15 Mei 2026
+Pengumpulan Pitching Deck 15 Mei 2026
+Final Pitching & Awarding 16 Mei 2026
+Kompetisi Hackathon Find IT! 2026: "The AI Marathon"
+dilaksanakan melalui tiga tahapan eliminasi yang
+berkesinambungan. Peserta wajib memahami dan
+mematuhi setiap ketentuan teknis di bawah ini.
+MEKANISME TAHAP 1: SELEKSI ABSTRAK
+Tujuan Tahap 1
+Tahap ini bertujuan menilai ketajaman analisis masalah,
+kekuatan ide solusi, rancangan arsitektur sistem AI, dan
+kelayakan ketersediaan data yang akan digunakan untuk
+pengembangan model di Tahap 2.
+Tentang Abstrak
+Peserta wajib mengumpulkan Abstrak berformat PDF
+dengan rincian sebagai berikut:
+Panjang: Maksimal 2 halaman teks Konten yang harus ada:
+1.Latar Belakang & Problem Statement.
+2.Solusi yang Diusulkan & Model AI.
+3.Rencana Data.
+Teknis Pelaksanaan Kegiatan
+Struktur Isi Abstrak
+a. Latar Belakang & Problem Statement.
+Konteks Masalah
+Apa masalah yang ingin diselesaikan?
+Mengapa penting dan mendesak untuk
+diselesaikan?
+Siapa yang terkena dampak? (mahasiswa, dosen,
+masyarakat, industri, dll)
+Sertakan data/statistik/fakta yang valid untuk
+membuktikan masalah nyata (bukan asumsi)
+Jelaskan dampak jika masalah tidak diselesaikan
+Teknis Pelaksanaan Kegiatan
+Aspek Ketentuan
+Format File PDF
+Ukuran File Maksimal 5 MB
+Nama File Hackathon2026_[NamaTim]_[Judul]_Proposal.pdf
+Font Times New Roman 12 pt (isi), 14 pt (judul bab)
+Spasi 1.15
+Margin Kiri 3 cm, Kanan 2 cm, Atas 2 cm, Bawah 2 cm
+Bahasa
+Bahasa Indonesia yang baik dan benar (PUEBI);
+istilah teknis asing boleh dicetak miring
+b. Solusi yang Diusulkan & Model AI
+Deskripsi Solusi Singkat
+Jelaskan secara umum bagaimana solusi AI Anda
+akan mengatasi masalah
+Output/hasil apa yang akan dihasilkan?
+Bagaimana solusi ini berbeda/lebih baik dari solusi
+yang sudah ada?
+Pendekatan Model & Teknologi
+Jenis Task AI (pilih yang sesuai):
+Kategori Vision: Object Detection / Image
+Classification / Image Segmentation / OCR /
+Lainnya
+Kategori NLP: Text Classification / Named Entity
+Recognition / Chatbot / Text Summarization /
+Sentiment Analysis / Lainnya
+Kategori Data Prediction: Classification /
+Regression / Time Series Forecasting / Clustering /
+Anomaly Detection / Lainnya
+Teknis Pelaksanaan Kegiatan
+c. Data
+Sumber Data
+Dari mana data akan diperoleh?
+Dataset publik/open source (sebutkan nama, link,
+jumlah sample)
+Data custom yang dikumpulkan sendiri (jelaskan
+metode & estimasi jumlah)
+Kombinasi dari beberapa sumber
+Persiapan Data (optional)
+Bagaimana data akan dibersihkan? (handling
+missing values, outliers, dll)
+Apakah ada imbalance class? Bagaimana cara
+mengatasinya
+Bagaimana pembagian train-validation-test data?
+(misal: 70% -15% -15%)
+MEKANISME TAHAP 2: MODEL DEVELOPMENT &
+PROPOSAL (SEMI FINAL)
+Durasi: 3 Minggu (Daring/Remote)
+Fokus: Pengembangan Model AI, Adaptasi Teknis, dan
+Pendalaman Konsep.
+Peserta yang lolos seleksi Abstrak (Tahap 1) berhak melaju
+ke tahap pengembangan utama. Pada tahap ini, peserta
+akan ditantang untuk membuktikan tidak hanya
+kemampuan coding, tetapi juga fleksibilitas dalam
+menghadapi batasan teknis yang ketat.
+Teknis Pelaksanaan Kegiatan
+1.The Sealed Constraints (Batasan Misterius)
+Dalam semangat tema "Adaptive Intelligence", peserta
+tidak hanya diminta membuat model yang akurat, tetapi
+juga model yang memenuhi spesifikasi lingkungan
+tertentu.
+Setiap Track AI memiliki "Constraint Rahasia" yang baru
+akan diungkap (revealed) pada hari pertama dimulainya
+Tahap 2. Peserta wajib menyesuaikan model mereka
+dengan batasan tersebut. Kegagalan memenuhi
+constraint akan berdampak fatal pada penilaian.
+Berikut adalah kisi-kisi fokus tantangan untuk setiap track:
+Track A: Computer Vision
+Fokus: Pengolahan data visual (Gambar/Video).
+Clue Tantangan: "Efficiency is Key." Bersiaplah
+untuk membangun model yang tidak hanya cerdas
+melihat pola, tetapi juga sangat hemat sumber
+daya agar dapat berjalan di lingkungan terbatas
+(resource-constrained environment).
+Track B: NLP / Generative AI
+Fokus: Pengolahan teks dan bahasa alami.
+Clue Tantangan: "Sovereignty & Privacy."
+Bersiaplah untuk membangun kecerdasan bahasa
+yang mandiri tanpa ketergantungan pada "otak"
+pihak luar. Kemandirian infrastruktur akan menjadi
+ujian utama.
+Teknis Pelaksanaan Kegiatan
+Track C: Predictive Analytics
+Fokus: Pengolahan data tabular, time-series, atau
+numerik.
+Clue Tantangan: "Trust & Transparency." Model
+yang memiliki akurasi tinggi tidak ada artinya jika
+tidak bisa dipercaya. Bersiaplah untuk
+membuktikan mengapa model Anda mengambil
+keputusan tersebut, bukan sekadar menebak
+angka.
+2.Deliverables (Berkas yang Dikumpulkan)
+Pada akhir periode 3 minggu, peserta wajib
+mengumpulkan:
+a. Proposal Lengkap (PDF): Dokumen komprehensif yang
+mencakup:
+Bab 1: Pendahuluan (Latar Belakang, Rumusan
+Masalah, Tujuan).
+Bab 2: Metodologi AI (Dataset, Arsitektur, Preprocessing, Evaluasi).
+Bab 3: Kepatuhan Constraint (Penjelasan
+bagaimana model Anda memenuhi constraint
+rahasia yang diberikan).
+Bab 4: Rancangan Sistem & Bisnis (Integrasi Phase
+3 & Analisis Dampak).
+Teknis Pelaksanaan Kegiatan
+b. File Model Jadi: File bobot model (.pt, .h5, dll) siap
+pakai.
+c. Dataset (Wajib Pisah): Folder train_data dan test_data
+terpisah untuk validasi kebocoran data (data leakage).
+d. Notebook Training (training.ipynb): Kode asli proses
+pelatihan. Log/Output training harus terlihat jelas.
+e. Notebook Inference (inference.ipynb): Script bersih
+untuk memuat model dan melakukan prediksi.
+MEKANISME TAHAP 3: THE MARATHON (GRAND FINAL)
+Durasi Coding: 24 Jam Non-stop
+Fokus: Integrasi Sistem, Deployment, dan Pitching.
+Tim finalis akan diundang ke Yogyakarta untuk tahap
+pembuktian akhir. Di tahap ini, model AI yang telah
+dikembangkan di Tahap 2 harus diintegrasikan menjadi
+produk aplikasi utuh (Minimum Viable Product) yang siap
+digunakan
+1.Ketentuan Umum & Infrastruktur
+a. Integrasi Tanpa Training: Waktu 24 jam difokuskan
+murni untuk Integrasi Sistem (Model → API → App) dan
+penyempurnaan UI/UX. Peserta DILARANG melakukan
+training ulang model yang memakan waktu lama selama
+acara berlangsung. Peserta wajib membawa model
+matang yang sudah lolos validasi Tahap 2.
+Teknis Pelaksanaan Kegiatan
+b. Local Environment: Panitia tidak menyediakan Cloud
+Server. Seluruh demo aplikasi berjalan di laptop peserta
+(Localhost). Pastikan spesifikasi laptop memadai untuk
+menjalankan Model AI dan Aplikasi secara bersamaan.
+c. Code Freeze: Segala aktivitas koding berhenti total saat
+waktu habis. Perubahan kode (commit/push) setelah
+waktu habis akan dianulir.
+2.Mekanisme Validasi: "The Dynamic Injection"
+(Harap Diperhatikan dengan Seksama)
+Untuk memastikan keaslian proses integrasi yang
+dilakukan secara live di lokasi (on-site) dan mencegah
+penggunaan aplikasi pra-jadi (pre-built), Tahap 3 akan
+menerapkan mekanisme Dynamic Injection.
+Pada saat countdown 24 jam dimulai, panitia akan merilis
+satu "Runtime Variable" atau "Mandatory Logic Node"
+yang bersifat rahasia.
+Teknis Pelaksanaan Kegiatan
+Implikasi Teknis:
+Aplikasi Anda WAJIB mampu menerima dan
+memproses variabel/logika dadakan ini agar sistem
+dianggap valid.
+Peserta dituntut untuk membuat arsitektur aplikasi
+yang fleksibel dan modular. Jika aplikasi Anda
+dibangun secara kaku (hardcoded) atau merupakan
+aplikasi jadi yang dibawa dari rumah, besar
+kemungkinan aplikasi Anda akan gagal berfungsi
+(crash) saat parameter ini disuntikkan.
+Kegagalan dalam mengimplementasikan Dynamic
+Injection ini akan dianggap sebagai indikasi
+ketidaksiapan sistem atau kecurangan, yang dapat
+berdampak pada diskualifikasi.
+3.Rundown Teknis
+Hari Pertama (10.00 WIB):
+Release of Dynamic Injection: Variabel rahasia
+diumumkan.
+Start Hacking: Peserta mulai membangun
+arsitektur aplikasi, membuat API endpoint, dan
+menyusun antarmuka (UI).
+Hari Kedua (11.00 WIB):
+Code Freeze: Batas akhir push ke Repository
+Github. Tidak ada toleransi keterlambatan.
+Teknis Pelaksanaan Kegiatan
+Hari Ketiga (09.00 WIB):
+Final Pitching & Live Demo: Peserta
+mempresentasikan produk dan melakukan demo
+langsung di depan dewan juri.
+4.Output Akhir (Deliverables)
+a. Aplikasi MVP: Produk yang berfungsi penuh (Input Data
+-> Proses AI -> Output Hasil) yang berjalan di laptop
+peserta.
+b. Github Repository Final: Source code lengkap aplikasi
+(Backend + Frontend).
+c. Pitch Deck: Slide presentasi untuk sesi final (Format
+PPT/PDF).
+Nb. Pada tahap Grand Final kami hanya menyediakan
+tempat dan konsumsi pada tanggal 14 Mei 2026 pukul 8
+pagi sampai 15 Mei 2026 pukul 12 siang. Diluar dari waktu
+tersebut kebutuhan ataupun keperluan ditanggung oleh
+peserta.
+Teknis Pelaksanaan Kegiatan
+TAHAP 1: SELEKSI ABSTRAK
+Penyaringan awal terhadap orisinalitas ide, kekuatan
+konsep, dan urgensi masalah yang diajukan melalui
+dokumen Abstrak
+1.Relevansi Tema & Subtema (25%)
+Kesesuaian ide dengan tema "Digital Sovereignty"
+dan subtema pilihan serta kedalaman pemahaman
+terhadap visi kedaulatan digital.
+2.Orisinalitas & Inovasi (30%)
+Keunikan solusi dibandingkan kompetitor dan
+kebaruan pendekatan teknologi AI dalam
+memperkuat ketahanan nasional.
+3.Urgensi Masalah (25%):
+Besarnya dampak positif solusi dan tingkat
+kedaruratan isu yang diangkat bagi masyarakat
+luas.
+4.Potensi Keberlanjutan (20%):
+Skalabilitas ide dan kelayakan pengembangan
+solusi menjadi sistem utuh di tahap selanjutnya.
+Komponen Penilaian
+Komponen Penilaian
+TAHAP 2: MODEL DEVELOPMENT & PROPOSAL (SEMI
+FINAL)
+Evaluasi teknis terhadap kualitas model AI, kesiapan
+integrasi sistem, dan rancangan arsitektur.
+A. Bidang Juri: AI (Artificial Intelligence)
+1.Metrik Performa (30%)
+Capaian metrik evaluasi (Akurasi, F1-Score, dsb.)
+pada data uji yang terekam secara valid di
+training.ipynb.
+2.Kualitas Data Engineering (25%)
+Keahlian dalam preprocessing, augmentasi,
+pemisahan data, dan penanganan anomali dataset
+di dalam kode.
+3.Metodologi & Logika (20%)
+Kelogisan alur eksperimen, ketepatan arsitektur
+model, dan efektivitas optimasi hyperparameter.
+4.Generalisasi & Robustness (15%)
+Kemampuan model menangani variasi data baru
+serta analisis terhadap overfitting/underfitting.
+5.Dokumentasi Kode (10%)
+Kerapian penulisan kode dan kejelasan komentar
+pada notebook untuk kebutuhan replikasi.
+Komponen Penilaian
+B. Bidang Juri: Software Engineering
+1.Kesiapan Inferensi (35%)
+Kemudahan model untuk di-load dan dijalankan
+secara fungsional melalui skrip inference.ipynb.
+2.Manajemen Dependensi (25%)
+Kelengkapan dokumentasi pustaka (libraries) dan
+kejelasan instruksi penyiapan lingkungan kerja di
+dalam berkas.
+3.Integrasi Spesifikasi Teknis (20%)
+Kejelasan dokumentasi input/output, tipe data,
+dan alur preprocessing pada Proposal Bab 2.
+4.Skalabilitas & Efisiensi (20%)
+Optimalisasi ukuran model dan efisiensi
+penggunaan sumber daya (RAM/CPU/GPU)
+berdasarkan laporan di Proposal Bab 3.
+C. Bidang Juri: Product / System Architect
+1.Arsitektur Sistem (40%)
+Kejelasan alur sistem dan ketepatan solusi AI
+dalam menjawab kebutuhan pengguna (ProblemModel Alignment).
+2.Etika Data & Privasi (30%)
+Implementasi anonimitas data, transparansi,
+mitigasi bias, dan kepatuhan terhadap regulasi
+perlindungan data.
+3.Kelayakan Implementasi (30%)
+Realisme solusi terhadap infrastruktur target,
+biaya operasional, dan potensi hambatan di
+lapangan.
+Komponen Penilaian
+TAHAP 3: THE MARATHON (GRAND FINAL)
+Uji coba langsung integrasi sistem (MVP), stabilitas
+aplikasi, dan kemampuan presentasi tim secara luring.
+A. Bidang Juri: AI (Artificial Intelligence)
+1.Live Inference Quality (30%)
+Akurasi, stabilitas, dan kecepatan respon prediksi
+model saat diuji langsung dengan data real-time.
+2.Integritas & Konsistensi (25%)
+Validasi penggunaan model yang sama dengan
+Tahap 2 tanpa adanya manipulasi hasil atau retraining.
+3.Optimasi Integrasi (25%)
+Efisiensi penggunaan resource model saat berjalan
+dalam sistem aplikasi yang terintegrasi.
+4.Pertahanan Teknis (20%)
+Penguasaan materi teknis dan kualitas jawaban
+selama sesi tanya jawab (Q&A).
+B. Bidang Juri: Software Engineering
+1.Integrasi & Alur Sistem (30%)
+Kelancaran komunikasi data antar komponen
+(Frontend, Backend, AI) dan kualitas desain API.
+Komponen Penilaian
+2.Adaptabilitas Dinamis (30%)
+Keberhasilan sistem dalam memproses Runtime
+Variable (Dynamic Injection) tanpa mengalami
+crash.
+3.Eksekusi Teknis & UI (20%)
+Kualitas kode frontend, responsivitas antarmuka,
+dan performa pemuatan aplikasi.
+4.Kejelasan Arsitektur (20%)
+Transparansi pemilihan technology stack dan pola
+desain yang digunakan dalam membangun sistem.
+C. Bidang Juri: Product Management
+1.Esensi "Augmenting" (30%)
+Efektivitas solusi dalam meningkatkan kemampuan
+manusia untuk menutup celah masalah secara
+nyata.
+2.Pengalaman Pengguna (25%)
+Kemudahan alur (user journey), intuitivitas
+antarmuka, dan kejelasan sistem umpan balik
+aplikasi.
+3.Storytelling & Pitching (25%)
+Kualitas penyampaian pesan, visualisasi slide, dan
+kemampuan meyakinkan audiens terhadap solusi.
+4.Viabilitas Solusi (20%)
+Realisme rencana keberlanjutan, analisis
+kompetitor, dan strategi adopsi pengguna ke
+depan.
+A. Prosedur pendaftaran
+1.Peserta memposting twibbon di feeds serta poster di
+story pada akun Instagram masing-masing peserta.
+Twibbon dan poster dapat diakses pada link berikut:
+https://s.id/TwibbonFindIT2026
+2.Ketua tim mengisi formulir yang telah disediakan
+dengan melampirkan abstrak dan berkas yang
+diperlukan. Formulir dapat diakses melalui:
+https://www.find-it.id/
+3.Pastikan data yang diisi sudah benar.
+4.Apabila pendaftaran berhasil, peserta akan menerima
+email konfirmasi pendaftaran.
+5.Tim yang lolos tahap abstrak boleh melanjutkan tahap
+kompetisi dengan membayar sebesar Rp 160.000,00.
+6.Tim yang tidak membayar setelah waktu yang
+ditentukan dinyatakan gugur dan tidak dapat
+mengikuti tahap kompetisi selanjutnya.
+B. Berkas yang dikumpulkan
+1.KTM atau Bukti Aktif sebagai Mahasiswa (Dokumen)
+2.Abstrak
+3.Bukti upload twibbon
+Pendaftaran
+Pendaftaran dan pengumpulan abstrak Executive
+Summary FindIT! 2026 tidak dikenakan biaya. Tim yang
+lolos ke tahap Pitching Deck wajib membayar biaya
+registrasi sebesar Rp160.000,00
+Biaya Pendaftaran
+Peringkat Hadiah Uang Tunai Sertifikat
+Juara 1 Uang Pembinaan
+Sertifikat
+Penghargaan Tim
+Juara 2 Uang Pembinaan
+Sertifikat
+Penghargaan Tim
+Juara 3 Uang Pembinaan
+Sertifikat
+Penghargaan Tim
+1 Hadiah dan Penghargaan
+a 2
+3
+1.Seluruh tim yang lolos Tahap 1 ke atas akan
+mendapatkan:
+E-Sertifikat Peserta resmi Find IT! 2026 (dikirim via
+email)
+2.Tim Finalist (Tahap 3) akan mendapatkan:
+E-Certificate of Finalist yang mencantumkan
+pencapaian lolos ke Grand Final
+Sertifikat dan
+Penghargaan Tambahan
+Syarat dan Ketentuan Hadiah
+1.Hadiah hanya diberikan kepada tim yang tidak
+diskualifikasi karena pelanggaran aturan, kecurangan,
+atau plagiarisme.
+2.Tim pemenang dapat kehilangan gelar dan hadiah
+apabila ditemukan bukti kecurangan atau pelanggaran
+setelah pengumuman pemenang.
+3.Sertifikat elektronik dikirimkan ke email ketua tim
+dalam format PDF; peserta berhak mencetak sendiri
+jika diperlukan.
+4.Sertifikat peserta diberikan kepada semua anggota tim
+yang terdaftar, terlepas dari kehadiran di Grand Final.
+Narahubung
+Arifa
++6283820170157 (WA)
+arifa06 (ID Line)
+@ugm.findit (Instagram)
+competitions@find-it.id
