@@ -1,0 +1,2506 @@
+{
+  "version": "1.0",
+  "description": "Kamus tanaman obat Indonesia untuk Pharmarize.ai",
+  "total_plants": 55,
+  "plants": [
+    {
+      "id": "plant_001",
+      "local_names": [
+        "pasak bumi",
+        "tongkat ali",
+        "longjack"
+      ],
+      "scientific_name": "Eurycoma longifolia Jack.",
+      "family": "Simaroubaceae",
+      "parts_used": [
+        "akar",
+        "kulit batang"
+      ],
+      "compounds": [
+        "eurycomanone",
+        "eurycomalactone",
+        "eurycomaoside",
+        "eurycomalide A",
+        "niloticin",
+        "longilactone",
+        "quassinoid"
+      ],
+      "benefits": [
+        "afrodisiaka",
+        "meningkatkan stamina",
+        "antimalaria",
+        "antioksidan"
+      ],
+      "regions": [
+        "Kalimantan",
+        "Sumatera",
+        "Malaysia"
+      ]
+    },
+    {
+      "id": "plant_002",
+      "local_names": [
+        "kunyit",
+        "kunir",
+        "turmeric"
+      ],
+      "scientific_name": "Curcuma longa L.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "kurkumin",
+        "curcumin",
+        "kurkuminoid",
+        "turmerone",
+        "zingiberene"
+      ],
+      "benefits": [
+        "antioksidan",
+        "antiinflamasi",
+        "hepatoprotektif",
+        "antimikroba"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Bali"
+      ]
+    },
+    {
+      "id": "plant_003",
+      "local_names": [
+        "jahe",
+        "ginger"
+      ],
+      "scientific_name": "Zingiber officinale Roscoe",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "gingerol",
+        "shogaol",
+        "zingiberene",
+        "zingerone"
+      ],
+      "benefits": [
+        "antiemetik",
+        "antiinflamasi",
+        "antioksidan",
+        "menghangatkan tubuh"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Sulawesi"
+      ]
+    },
+    {
+      "id": "plant_004",
+      "local_names": [
+        "temulawak",
+        "Javanese turmeric"
+      ],
+      "scientific_name": "Curcuma xanthorrhiza Roxb.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "xanthorrhizol",
+        "kurkumin",
+        "germakron"
+      ],
+      "benefits": [
+        "hepatoprotektif",
+        "antiinflamasi",
+        "meningkatkan nafsu makan",
+        "antioksidan"
+      ],
+      "regions": [
+        "Jawa",
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_005",
+      "local_names": [
+        "kumis kucing",
+        "cat's whiskers",
+        "java tea"
+      ],
+      "scientific_name": "Orthosiphon aristatus (Blume) Miq.",
+      "family": "Lamiaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "sinensetin",
+        "flavonoid",
+        "saponin",
+        "tanin",
+        "kalium"
+      ],
+      "benefits": [
+        "diuretik",
+        "antihipertensi",
+        "antidiabetes",
+        "antioksidan"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_006",
+      "local_names": [
+        "sambiloto",
+        "king of bitters",
+        "andrographis"
+      ],
+      "scientific_name": "Andrographis paniculata (Burm.f.) Nees",
+      "family": "Acanthaceae",
+      "parts_used": [
+        "daun",
+        "herba"
+      ],
+      "compounds": [
+        "andrographolide",
+        "neoandrographolide",
+        "flavonoid"
+      ],
+      "benefits": [
+        "imunomodulator",
+        "antidiabetes",
+        "antiinflamasi",
+        "hepatoprotektif"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_007",
+      "local_names": [
+        "mengkudu",
+        "noni",
+        "pace"
+      ],
+      "scientific_name": "Morinda citrifolia L.",
+      "family": "Rubiaceae",
+      "parts_used": [
+        "buah",
+        "daun",
+        "akar"
+      ],
+      "compounds": [
+        "scopoletin",
+        "antrakuinon",
+        "terpenoid",
+        "xeronine"
+      ],
+      "benefits": [
+        "antihipertensi",
+        "antioksidan",
+        "antikanker",
+        "imunomodulator"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_008",
+      "local_names": [
+        "mahkota dewa",
+        "crown of god"
+      ],
+      "scientific_name": "Phaleria macrocarpa (Scheff.) Boerl.",
+      "family": "Thymelaeaceae",
+      "parts_used": [
+        "buah",
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "alkaloid",
+        "saponin",
+        "polifenol",
+        "mahkoside"
+      ],
+      "benefits": [
+        "antikanker",
+        "antidiabetes",
+        "antiinflamasi",
+        "antihipertensi"
+      ],
+      "regions": [
+        "Papua",
+        "Irian Jaya"
+      ]
+    },
+    {
+      "id": "plant_009",
+      "local_names": [
+        "sirsak",
+        "daun sirsak",
+        "soursop",
+        "graviola"
+      ],
+      "scientific_name": "Annona muricata L.",
+      "family": "Annonaceae",
+      "parts_used": [
+        "daun",
+        "buah",
+        "biji"
+      ],
+      "compounds": [
+        "acetogenin",
+        "annonacin",
+        "flavonoid",
+        "alkaloid"
+      ],
+      "benefits": [
+        "antikanker",
+        "antioksidan",
+        "antiinflamasi",
+        "antidiabetes"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Sulawesi"
+      ]
+    },
+    {
+      "id": "plant_010",
+      "local_names": [
+        "pegagan",
+        "gotu kola",
+        "antanan"
+      ],
+      "scientific_name": "Centella asiatica (L.) Urb.",
+      "family": "Apiaceae",
+      "parts_used": [
+        "herba",
+        "daun"
+      ],
+      "compounds": [
+        "asiaticoside",
+        "madecassoside",
+        "asiatic acid",
+        "triterpenoid"
+      ],
+      "benefits": [
+        "nootropik",
+        "penyembuhan luka",
+        "antioksidan",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Bali"
+      ]
+    },
+    {
+      "id": "plant_011",
+      "local_names": [
+        "bajakah",
+        "bajakah tampala",
+        "bajakah kalalawit"
+      ],
+      "scientific_name": "Spatholobus littoralis Hassk.",
+      "family": "Fabaceae",
+      "parts_used": [
+        "batang",
+        "akar"
+      ],
+      "compounds": [
+        "flavonoid",
+        "tanin",
+        "saponin",
+        "terpenoid",
+        "quercetin"
+      ],
+      "benefits": [
+        "antikanker",
+        "antioksidan",
+        "antiinflamasi",
+        "penyembuhan luka"
+      ],
+      "regions": [
+        "Kalimantan Tengah",
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_012",
+      "local_names": [
+        "kelor",
+        "moringa",
+        "merunggai"
+      ],
+      "scientific_name": "Moringa oleifera Lam.",
+      "family": "Moringaceae",
+      "parts_used": [
+        "daun",
+        "biji",
+        "kulit batang"
+      ],
+      "compounds": [
+        "quercetin",
+        "kaempferol",
+        "zeatin",
+        "beta-sitosterol"
+      ],
+      "benefits": [
+        "antioksidan",
+        "antidiabetes",
+        "antiinflamasi",
+        "nutrisi tinggi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_013",
+      "local_names": [
+        "lidah buaya",
+        "aloe vera"
+      ],
+      "scientific_name": "Aloe vera (L.) Burm.f.",
+      "family": "Asphodelaceae",
+      "parts_used": [
+        "gel daun",
+        "daun"
+      ],
+      "compounds": [
+        "aloin",
+        "aloe-emodin",
+        "acemannan",
+        "polisakarida"
+      ],
+      "benefits": [
+        "penyembuhan luka",
+        "antiinflamasi",
+        "melembabkan kulit",
+        "pencahar"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_014",
+      "local_names": [
+        "binahong",
+        "heartleaf madeiravine"
+      ],
+      "scientific_name": "Anredera cordifolia (Ten.) Steenis",
+      "family": "Basellaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "saponin",
+        "alkaloid",
+        "terpenoid",
+        "asam askorbat"
+      ],
+      "benefits": [
+        "penyembuhan luka",
+        "antiinflamasi",
+        "antibakteri",
+        "antioksidan"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_015",
+      "local_names": [
+        "sirih",
+        "sirih hijau",
+        "betel leaf"
+      ],
+      "scientific_name": "Piper betle L.",
+      "family": "Piperaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "chavicol",
+        "eugenol",
+        "hydroxychavicol",
+        "allylpyrocatechol"
+      ],
+      "benefits": [
+        "antibakteri",
+        "antijamur",
+        "antioksidan",
+        "menghilangkan bau mulut"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_016",
+      "local_names": [
+        "kayu manis",
+        "cinnamon"
+      ],
+      "scientific_name": "Cinnamomum verum J.Presl",
+      "family": "Lauraceae",
+      "parts_used": [
+        "kulit batang"
+      ],
+      "compounds": [
+        "cinnamaldehyde",
+        "eugenol",
+        "coumarin",
+        "polifenol"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antioksidan",
+        "antimikroba",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "Sumatera",
+        "Jawa"
+      ]
+    },
+    {
+      "id": "plant_017",
+      "local_names": [
+        "cengkeh",
+        "clove"
+      ],
+      "scientific_name": "Syzygium aromaticum (L.) Merr. & L.M.Perry",
+      "family": "Myrtaceae",
+      "parts_used": [
+        "bunga",
+        "minyak"
+      ],
+      "compounds": [
+        "eugenol",
+        "acetyl eugenol",
+        "beta-caryophyllene"
+      ],
+      "benefits": [
+        "analgesik",
+        "antibakteri",
+        "antiseptik",
+        "antioksidan"
+      ],
+      "regions": [
+        "Maluku",
+        "Sulawesi"
+      ]
+    },
+    {
+      "id": "plant_018",
+      "local_names": [
+        "serai",
+        "sereh",
+        "lemongrass"
+      ],
+      "scientific_name": "Cymbopogon citratus (DC.) Stapf",
+      "family": "Poaceae",
+      "parts_used": [
+        "batang",
+        "daun"
+      ],
+      "compounds": [
+        "citral",
+        "geraniol",
+        "citronellal",
+        "limonene"
+      ],
+      "benefits": [
+        "antimikroba",
+        "antijamur",
+        "antioksidan",
+        "relaksan"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_019",
+      "local_names": [
+        "jintan hitam",
+        "habbatussauda",
+        "black seed"
+      ],
+      "scientific_name": "Nigella sativa L.",
+      "family": "Ranunculaceae",
+      "parts_used": [
+        "biji"
+      ],
+      "compounds": [
+        "thymoquinone",
+        "thymohydroquinone",
+        "nigellone",
+        "alpha-pinene"
+      ],
+      "benefits": [
+        "imunomodulator",
+        "antiinflamasi",
+        "antioksidan",
+        "antidiabetes"
+      ],
+      "regions": [
+        "diimpor, dibudidayakan di Indonesia"
+      ]
+    },
+    {
+      "id": "plant_020",
+      "local_names": [
+        "rosella",
+        "roselle"
+      ],
+      "scientific_name": "Hibiscus sabdariffa L.",
+      "family": "Malvaceae",
+      "parts_used": [
+        "kelopak bunga"
+      ],
+      "compounds": [
+        "antosianin",
+        "flavonoid",
+        "asam hibiscus",
+        "polifenol"
+      ],
+      "benefits": [
+        "antihipertensi",
+        "antioksidan",
+        "hepatoprotektif",
+        "diuretik"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Sulawesi"
+      ]
+    },
+    {
+      "id": "plant_021",
+      "local_names": [
+        "keji beling",
+        "pecah beling"
+      ],
+      "scientific_name": "Strobilanthes crispus Blume",
+      "family": "Acanthaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "saponin",
+        "polifenol",
+        "kalium",
+        "silika"
+      ],
+      "benefits": [
+        "diuretik",
+        "antidiabetes",
+        "meluruhkan batu ginjal",
+        "antioksidan"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_022",
+      "local_names": [
+        "meniran",
+        "phyllanthus"
+      ],
+      "scientific_name": "Phyllanthus niruri L.",
+      "family": "Phyllanthaceae",
+      "parts_used": [
+        "herba"
+      ],
+      "compounds": [
+        "filantin",
+        "hipofilantin",
+        "flavonoid",
+        "tanin"
+      ],
+      "benefits": [
+        "hepatoprotektif",
+        "diuretik",
+        "antivirus",
+        "imunomodulator"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_023",
+      "local_names": [
+        "tapak dara",
+        "vinca",
+        "periwinkle"
+      ],
+      "scientific_name": "Catharanthus roseus (L.) G.Don",
+      "family": "Apocynaceae",
+      "parts_used": [
+        "daun",
+        "herba"
+      ],
+      "compounds": [
+        "vincristine",
+        "vinblastine",
+        "alkaloid vinca"
+      ],
+      "benefits": [
+        "antikanker",
+        "antidiabetes",
+        "antihipertensi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_024",
+      "local_names": [
+        "brotowali",
+        "bratawali",
+        "tinospora"
+      ],
+      "scientific_name": "Tinospora crispa (L.) Hook. f. & Thomson",
+      "family": "Menispermaceae",
+      "parts_used": [
+        "batang"
+      ],
+      "compounds": [
+        "berberin",
+        "tinokrisposid",
+        "alkaloid",
+        "diterpenoid"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antipiretik",
+        "imunomodulator",
+        "antimalarial"
+      ],
+      "regions": [
+        "Jawa",
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_025",
+      "local_names": [
+        "temu kunci",
+        "fingerroot",
+        "krachai"
+      ],
+      "scientific_name": "Boesenbergia rotunda (L.) Mansf.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "pinostrobin",
+        "panduratin A",
+        "flavonoid"
+      ],
+      "benefits": [
+        "antibakteri",
+        "antijamur",
+        "antioksidan",
+        "afrodisiaka"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_026",
+      "local_names": [
+        "lengkuas",
+        "laos",
+        "galangal"
+      ],
+      "scientific_name": "Alpinia galanga (L.) Willd.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "1'-acetoxychavicol acetate",
+        "galangin",
+        "alpinetin"
+      ],
+      "benefits": [
+        "antibakteri",
+        "antijamur",
+        "antioksidan",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_027",
+      "local_names": [
+        "kencur",
+        "aromatic ginger"
+      ],
+      "scientific_name": "Kaempferia galanga L.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "ethyl p-methoxycinnamate",
+        "kaempferol",
+        "borneol"
+      ],
+      "benefits": [
+        "antiinflamasi",
+        "analgesik",
+        "ekspektoran",
+        "antimikroba"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera",
+        "Bali"
+      ]
+    },
+    {
+      "id": "plant_028",
+      "local_names": [
+        "kapulaga",
+        "cardamom"
+      ],
+      "scientific_name": "Elettaria cardamomum (L.) Maton",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "biji",
+        "buah"
+      ],
+      "compounds": [
+        "1,8-cineole",
+        "alpha-terpinyl acetate",
+        "limonene"
+      ],
+      "benefits": [
+        "karminatif",
+        "antiemetik",
+        "antimikroba",
+        "antioksidan"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_029",
+      "local_names": [
+        "daun salam",
+        "Indonesian bay leaf"
+      ],
+      "scientific_name": "Syzygium polyanthum (Wight) Walp.",
+      "family": "Myrtaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "eugenol",
+        "flavonoid",
+        "tanin",
+        "minyak atsiri"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antihipertensi",
+        "antimikroba",
+        "antioksidan"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_030",
+      "local_names": [
+        "daun katuk",
+        "katuk",
+        "sweet leaf"
+      ],
+      "scientific_name": "Sauropus androgynus (L.) Merr.",
+      "family": "Phyllanthaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "papaverine",
+        "flavonoid",
+        "saponin",
+        "asam amino"
+      ],
+      "benefits": [
+        "laktagog",
+        "antioksidan",
+        "nutrisi tinggi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_031",
+      "local_names": [
+        "daun jambu biji",
+        "jambu biji",
+        "guava"
+      ],
+      "scientific_name": "Psidium guajava L.",
+      "family": "Myrtaceae",
+      "parts_used": [
+        "daun",
+        "buah"
+      ],
+      "compounds": [
+        "quercetin",
+        "guaijaverin",
+        "tanin",
+        "vitamin C"
+      ],
+      "benefits": [
+        "antidiare",
+        "antioksidan",
+        "antidiabetes",
+        "antimikroba"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_032",
+      "local_names": [
+        "lempuyang",
+        "lempuyang emprit"
+      ],
+      "scientific_name": "Zingiber zerumbet (L.) Roscoe ex Sm.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "zerumbone",
+        "humulene",
+        "caryophyllene"
+      ],
+      "benefits": [
+        "antiinflamasi",
+        "antioksidan",
+        "analgesik",
+        "antikanker"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_033",
+      "local_names": [
+        "kemukus",
+        "cubeb"
+      ],
+      "scientific_name": "Piper cubeba L.f.",
+      "family": "Piperaceae",
+      "parts_used": [
+        "buah"
+      ],
+      "compounds": [
+        "cubebin",
+        "cubebene",
+        "sabinene",
+        "piperine"
+      ],
+      "benefits": [
+        "antibakteri",
+        "ekspektoran",
+        "diuretik",
+        "karminatif"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_034",
+      "local_names": [
+        "bunga telang",
+        "butterfly pea",
+        "kembang telang"
+      ],
+      "scientific_name": "Clitoria ternatea L.",
+      "family": "Fabaceae",
+      "parts_used": [
+        "bunga"
+      ],
+      "compounds": [
+        "antosianin",
+        "delphinidin",
+        "kaempferol",
+        "flavonoid"
+      ],
+      "benefits": [
+        "antioksidan",
+        "nootropik",
+        "antiinflamasi",
+        "pewarna alami"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_035",
+      "local_names": [
+        "adas",
+        "fennel"
+      ],
+      "scientific_name": "Foeniculum vulgare Mill.",
+      "family": "Apiaceae",
+      "parts_used": [
+        "biji",
+        "daun"
+      ],
+      "compounds": [
+        "anethole",
+        "fenchone",
+        "estragole"
+      ],
+      "benefits": [
+        "karminatif",
+        "laktagog",
+        "ekspektoran",
+        "antispasmodik"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_036",
+      "local_names": [
+        "kulit manggis",
+        "manggis",
+        "mangosteen"
+      ],
+      "scientific_name": "Garcinia mangostana L.",
+      "family": "Clusiaceae",
+      "parts_used": [
+        "kulit buah"
+      ],
+      "compounds": [
+        "xanthone",
+        "alpha-mangostin",
+        "gamma-mangostin",
+        "tanin"
+      ],
+      "benefits": [
+        "antioksidan",
+        "antiinflamasi",
+        "antikanker",
+        "antibakteri"
+      ],
+      "regions": [
+        "Sumatera",
+        "Kalimantan",
+        "Sulawesi"
+      ]
+    },
+    {
+      "id": "plant_037",
+      "local_names": [
+        "pandan",
+        "pandan wangi",
+        "screwpine"
+      ],
+      "scientific_name": "Pandanus amaryllifolius Roxb.",
+      "family": "Pandanaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "2-acetyl-1-pyrroline",
+        "alkaloid",
+        "flavonoid"
+      ],
+      "benefits": [
+        "pewangi alami",
+        "antidiabetes",
+        "antioksidan"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_038",
+      "local_names": [
+        "daun pepaya",
+        "pepaya"
+      ],
+      "scientific_name": "Carica papaya L.",
+      "family": "Caricaceae",
+      "parts_used": [
+        "daun",
+        "buah",
+        "getah"
+      ],
+      "compounds": [
+        "papain",
+        "carpaine",
+        "flavonoid",
+        "alkaloid"
+      ],
+      "benefits": [
+        "antimalarial",
+        "antidiabetes",
+        "meningkatkan trombosit",
+        "pencernaan"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_039",
+      "local_names": [
+        "daun dewa",
+        "beluntas cina"
+      ],
+      "scientific_name": "Gynura pseudochina (L.) DC.",
+      "family": "Asteraceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "saponin",
+        "tanin",
+        "steroid"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antihipertensi",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "Jawa"
+      ]
+    },
+    {
+      "id": "plant_040",
+      "local_names": [
+        "keladi tikus",
+        "typhonium"
+      ],
+      "scientific_name": "Typhonium flagelliforme (Lodd.) Blume",
+      "family": "Araceae",
+      "parts_used": [
+        "umbi",
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "alkaloid",
+        "steroid",
+        "glikosida"
+      ],
+      "benefits": [
+        "antikanker",
+        "antiinflamasi",
+        "detoksifikasi"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_041",
+      "local_names": [
+        "akar kuning",
+        "kayu kuning"
+      ],
+      "scientific_name": "Arcangelisia flava (L.) Merr.",
+      "family": "Menispermaceae",
+      "parts_used": [
+        "batang",
+        "akar"
+      ],
+      "compounds": [
+        "berberin",
+        "palmatine",
+        "jatrorrhizine"
+      ],
+      "benefits": [
+        "antimikroba",
+        "antidiabetes",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "Kalimantan",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_042",
+      "local_names": [
+        "saga",
+        "saga telik",
+        "crab's eye"
+      ],
+      "scientific_name": "Abrus precatorius L.",
+      "family": "Fabaceae",
+      "parts_used": [
+        "daun",
+        "biji"
+      ],
+      "compounds": [
+        "abrin",
+        "glycyrrhizin",
+        "abrusoside"
+      ],
+      "benefits": [
+        "antiinflamasi",
+        "ekspektoran",
+        "antimikroba"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_043",
+      "local_names": [
+        "jeruk nipis",
+        "lime"
+      ],
+      "scientific_name": "Citrus aurantifolia (Christm.) Swingle",
+      "family": "Rutaceae",
+      "parts_used": [
+        "buah",
+        "kulit",
+        "daun"
+      ],
+      "compounds": [
+        "limonene",
+        "citric acid",
+        "hesperidin",
+        "vitamin C"
+      ],
+      "benefits": [
+        "antioksidan",
+        "antimikroba",
+        "meningkatkan imunitas"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_044",
+      "local_names": [
+        "belimbing wuluh",
+        "belimbing sayur"
+      ],
+      "scientific_name": "Averrhoa bilimbi L.",
+      "family": "Oxalidaceae",
+      "parts_used": [
+        "buah",
+        "daun"
+      ],
+      "compounds": [
+        "oxalic acid",
+        "flavonoid",
+        "saponin"
+      ],
+      "benefits": [
+        "antihipertensi",
+        "antidiabetes",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_045",
+      "local_names": [
+        "pinang",
+        "betel nut"
+      ],
+      "scientific_name": "Areca catechu L.",
+      "family": "Arecaceae",
+      "parts_used": [
+        "biji"
+      ],
+      "compounds": [
+        "arecoline",
+        "arecaidine",
+        "tanin",
+        "flavonoid"
+      ],
+      "benefits": [
+        "anthelmintik",
+        "stimulan",
+        "astringen"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_046",
+      "local_names": [
+        "kenanga",
+        "cananga"
+      ],
+      "scientific_name": "Cananga odorata (Lam.) Hook.f. & Thomson",
+      "family": "Annonaceae",
+      "parts_used": [
+        "bunga"
+      ],
+      "compounds": [
+        "linalool",
+        "benzyl acetate",
+        "geraniol",
+        "ylang-ylang oil"
+      ],
+      "benefits": [
+        "aromaterapi",
+        "antiseptik",
+        "relaksan"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_047",
+      "local_names": [
+        "senggani",
+        "senduduk"
+      ],
+      "scientific_name": "Melastoma malabathricum L.",
+      "family": "Melastomataceae",
+      "parts_used": [
+        "daun",
+        "buah"
+      ],
+      "compounds": [
+        "flavonoid",
+        "tanin",
+        "saponin",
+        "antosianin"
+      ],
+      "benefits": [
+        "antidiare",
+        "penyembuhan luka",
+        "antioksidan"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_048",
+      "local_names": [
+        "daun ungu",
+        "handeleum"
+      ],
+      "scientific_name": "Graptophyllum pictum (L.) Griff.",
+      "family": "Acanthaceae",
+      "parts_used": [
+        "daun"
+      ],
+      "compounds": [
+        "flavonoid",
+        "steroid",
+        "tanin",
+        "alkaloid"
+      ],
+      "benefits": [
+        "antihemoroid",
+        "antiinflamasi",
+        "pencahar"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_049",
+      "local_names": [
+        "bawang dayak",
+        "bawang tiwai"
+      ],
+      "scientific_name": "Eleutherine palmifolia (L.) Merr.",
+      "family": "Iridaceae",
+      "parts_used": [
+        "umbi"
+      ],
+      "compounds": [
+        "eleutherinol",
+        "antrakuinon",
+        "naftokuinon"
+      ],
+      "benefits": [
+        "antikanker",
+        "antimikroba",
+        "antioksidan"
+      ],
+      "regions": [
+        "Kalimantan"
+      ]
+    },
+    {
+      "id": "plant_050",
+      "local_names": [
+        "pulai",
+        "devil tree"
+      ],
+      "scientific_name": "Alstonia scholaris (L.) R.Br.",
+      "family": "Apocynaceae",
+      "parts_used": [
+        "kulit batang"
+      ],
+      "compounds": [
+        "alstonine",
+        "echitamine",
+        "alkaloid indol"
+      ],
+      "benefits": [
+        "antimalaria",
+        "antipiretik",
+        "antidiare"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_051",
+      "local_names": [
+        "rumput mutiara"
+      ],
+      "scientific_name": "Hedyotis corymbosa (L.) Lam.",
+      "family": "Rubiaceae",
+      "parts_used": [
+        "herba"
+      ],
+      "compounds": [
+        "asperuloside",
+        "oleanolic acid",
+        "ursolic acid"
+      ],
+      "benefits": [
+        "antikanker",
+        "antiinflamasi",
+        "hepatoprotektif"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_052",
+      "local_names": [
+        "jengkol",
+        "jering"
+      ],
+      "scientific_name": "Archidendron pauciflorum (Benth.) I.C.Nielsen",
+      "family": "Fabaceae",
+      "parts_used": [
+        "biji",
+        "kulit"
+      ],
+      "compounds": [
+        "jengkolic acid",
+        "flavonoid",
+        "saponin"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antimikroba"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    },
+    {
+      "id": "plant_053",
+      "local_names": [
+        "petai",
+        "pete",
+        "bitter bean"
+      ],
+      "scientific_name": "Parkia speciosa Hassk.",
+      "family": "Fabaceae",
+      "parts_used": [
+        "biji"
+      ],
+      "compounds": [
+        "thiazolidine-4-carboxylic acid",
+        "flavonoid",
+        "saponin"
+      ],
+      "benefits": [
+        "antidiabetes",
+        "antioksidan",
+        "antihipertensi"
+      ],
+      "regions": [
+        "seluruh Indonesia"
+      ]
+    },
+    {
+      "id": "plant_054",
+      "local_names": [
+        "temu hitam",
+        "black turmeric"
+      ],
+      "scientific_name": "Curcuma aeruginosa Roxb.",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "kurkumin",
+        "zedoary",
+        "germakron"
+      ],
+      "benefits": [
+        "anthelmintik",
+        "antiinflamasi",
+        "meningkatkan nafsu makan"
+      ],
+      "regions": [
+        "Jawa"
+      ]
+    },
+    {
+      "id": "plant_055",
+      "local_names": [
+        "temu putih",
+        "zedoary"
+      ],
+      "scientific_name": "Curcuma zedoaria (Christm.) Roscoe",
+      "family": "Zingiberaceae",
+      "parts_used": [
+        "rimpang"
+      ],
+      "compounds": [
+        "kurkumin",
+        "kurkumenol",
+        "germakron"
+      ],
+      "benefits": [
+        "antioksidan",
+        "hepatoprotektif",
+        "antiinflamasi"
+      ],
+      "regions": [
+        "Jawa",
+        "Sumatera"
+      ]
+    }
+  ],
+  "local_name_index": {
+    "pasak bumi": "plant_001",
+    "tongkat ali": "plant_001",
+    "longjack": "plant_001",
+    "kunyit": "plant_002",
+    "kunir": "plant_002",
+    "turmeric": "plant_002",
+    "jahe": "plant_003",
+    "ginger": "plant_003",
+    "temulawak": "plant_004",
+    "javanese turmeric": "plant_004",
+    "kumis kucing": "plant_005",
+    "cat's whiskers": "plant_005",
+    "java tea": "plant_005",
+    "sambiloto": "plant_006",
+    "king of bitters": "plant_006",
+    "andrographis": "plant_006",
+    "mengkudu": "plant_007",
+    "noni": "plant_007",
+    "pace": "plant_007",
+    "mahkota dewa": "plant_008",
+    "crown of god": "plant_008",
+    "sirsak": "plant_009",
+    "daun sirsak": "plant_009",
+    "soursop": "plant_009",
+    "graviola": "plant_009",
+    "pegagan": "plant_010",
+    "gotu kola": "plant_010",
+    "antanan": "plant_010",
+    "bajakah": "plant_011",
+    "bajakah tampala": "plant_011",
+    "bajakah kalalawit": "plant_011",
+    "kelor": "plant_012",
+    "moringa": "plant_012",
+    "merunggai": "plant_012",
+    "lidah buaya": "plant_013",
+    "aloe vera": "plant_013",
+    "binahong": "plant_014",
+    "heartleaf madeiravine": "plant_014",
+    "sirih": "plant_015",
+    "sirih hijau": "plant_015",
+    "betel leaf": "plant_015",
+    "kayu manis": "plant_016",
+    "cinnamon": "plant_016",
+    "cengkeh": "plant_017",
+    "clove": "plant_017",
+    "serai": "plant_018",
+    "sereh": "plant_018",
+    "lemongrass": "plant_018",
+    "jintan hitam": "plant_019",
+    "habbatussauda": "plant_019",
+    "black seed": "plant_019",
+    "rosella": "plant_020",
+    "roselle": "plant_020",
+    "keji beling": "plant_021",
+    "pecah beling": "plant_021",
+    "meniran": "plant_022",
+    "phyllanthus": "plant_022",
+    "tapak dara": "plant_023",
+    "vinca": "plant_023",
+    "periwinkle": "plant_023",
+    "brotowali": "plant_024",
+    "bratawali": "plant_024",
+    "tinospora": "plant_024",
+    "temu kunci": "plant_025",
+    "fingerroot": "plant_025",
+    "krachai": "plant_025",
+    "lengkuas": "plant_026",
+    "laos": "plant_026",
+    "galangal": "plant_026",
+    "kencur": "plant_027",
+    "aromatic ginger": "plant_027",
+    "kapulaga": "plant_028",
+    "cardamom": "plant_028",
+    "daun salam": "plant_029",
+    "indonesian bay leaf": "plant_029",
+    "daun katuk": "plant_030",
+    "katuk": "plant_030",
+    "sweet leaf": "plant_030",
+    "daun jambu biji": "plant_031",
+    "jambu biji": "plant_031",
+    "guava": "plant_031",
+    "lempuyang": "plant_032",
+    "lempuyang emprit": "plant_032",
+    "kemukus": "plant_033",
+    "cubeb": "plant_033",
+    "bunga telang": "plant_034",
+    "butterfly pea": "plant_034",
+    "kembang telang": "plant_034",
+    "adas": "plant_035",
+    "fennel": "plant_035",
+    "kulit manggis": "plant_036",
+    "manggis": "plant_036",
+    "mangosteen": "plant_036",
+    "pandan": "plant_037",
+    "pandan wangi": "plant_037",
+    "screwpine": "plant_037",
+    "daun pepaya": "plant_038",
+    "pepaya": "plant_038",
+    "daun dewa": "plant_039",
+    "beluntas cina": "plant_039",
+    "keladi tikus": "plant_040",
+    "typhonium": "plant_040",
+    "akar kuning": "plant_041",
+    "kayu kuning": "plant_041",
+    "saga": "plant_042",
+    "saga telik": "plant_042",
+    "crab's eye": "plant_042",
+    "jeruk nipis": "plant_043",
+    "lime": "plant_043",
+    "belimbing wuluh": "plant_044",
+    "belimbing sayur": "plant_044",
+    "pinang": "plant_045",
+    "betel nut": "plant_045",
+    "kenanga": "plant_046",
+    "cananga": "plant_046",
+    "senggani": "plant_047",
+    "senduduk": "plant_047",
+    "daun ungu": "plant_048",
+    "handeleum": "plant_048",
+    "bawang dayak": "plant_049",
+    "bawang tiwai": "plant_049",
+    "pulai": "plant_050",
+    "devil tree": "plant_050",
+    "rumput mutiara": "plant_051",
+    "jengkol": "plant_052",
+    "jering": "plant_052",
+    "petai": "plant_053",
+    "pete": "plant_053",
+    "bitter bean": "plant_053",
+    "temu hitam": "plant_054",
+    "black turmeric": "plant_054",
+    "temu putih": "plant_055",
+    "zedoary": "plant_055"
+  },
+  "scientific_name_index": {
+    "eurycoma longifolia": "plant_001",
+    "curcuma longa": "plant_002",
+    "zingiber officinale": "plant_003",
+    "curcuma xanthorrhiza": "plant_004",
+    "orthosiphon aristatus": "plant_005",
+    "andrographis paniculata": "plant_006",
+    "morinda citrifolia": "plant_007",
+    "phaleria macrocarpa": "plant_008",
+    "annona muricata": "plant_009",
+    "centella asiatica": "plant_010",
+    "spatholobus littoralis": "plant_011",
+    "moringa oleifera": "plant_012",
+    "aloe vera": "plant_013",
+    "anredera cordifolia": "plant_014",
+    "piper betle": "plant_015",
+    "cinnamomum verum": "plant_016",
+    "syzygium aromaticum": "plant_017",
+    "cymbopogon citratus": "plant_018",
+    "nigella sativa": "plant_019",
+    "hibiscus sabdariffa": "plant_020",
+    "strobilanthes crispus": "plant_021",
+    "phyllanthus niruri": "plant_022",
+    "catharanthus roseus": "plant_023",
+    "tinospora crispa": "plant_024",
+    "boesenbergia rotunda": "plant_025",
+    "alpinia galanga": "plant_026",
+    "kaempferia galanga": "plant_027",
+    "elettaria cardamomum": "plant_028",
+    "syzygium polyanthum": "plant_029",
+    "sauropus androgynus": "plant_030",
+    "psidium guajava": "plant_031",
+    "zingiber zerumbet": "plant_032",
+    "piper cubeba": "plant_033",
+    "clitoria ternatea": "plant_034",
+    "foeniculum vulgare": "plant_035",
+    "garcinia mangostana": "plant_036",
+    "pandanus amaryllifolius": "plant_037",
+    "carica papaya": "plant_038",
+    "gynura pseudochina": "plant_039",
+    "typhonium flagelliforme": "plant_040",
+    "arcangelisia flava": "plant_041",
+    "abrus precatorius": "plant_042",
+    "citrus aurantifolia": "plant_043",
+    "averrhoa bilimbi": "plant_044",
+    "areca catechu": "plant_045",
+    "cananga odorata": "plant_046",
+    "melastoma malabathricum": "plant_047",
+    "graptophyllum pictum": "plant_048",
+    "eleutherine palmifolia": "plant_049",
+    "alstonia scholaris": "plant_050",
+    "hedyotis corymbosa": "plant_051",
+    "archidendron pauciflorum": "plant_052",
+    "parkia speciosa": "plant_053",
+    "curcuma aeruginosa": "plant_054",
+    "curcuma zedoaria": "plant_055"
+  },
+  "compound_index": {
+    "eurycomanone": [
+      "plant_001"
+    ],
+    "eurycomalactone": [
+      "plant_001"
+    ],
+    "eurycomaoside": [
+      "plant_001"
+    ],
+    "eurycomalide a": [
+      "plant_001"
+    ],
+    "niloticin": [
+      "plant_001"
+    ],
+    "longilactone": [
+      "plant_001"
+    ],
+    "quassinoid": [
+      "plant_001"
+    ],
+    "kurkumin": [
+      "plant_002",
+      "plant_004",
+      "plant_054",
+      "plant_055"
+    ],
+    "curcumin": [
+      "plant_002"
+    ],
+    "kurkuminoid": [
+      "plant_002"
+    ],
+    "turmerone": [
+      "plant_002"
+    ],
+    "zingiberene": [
+      "plant_002",
+      "plant_003"
+    ],
+    "gingerol": [
+      "plant_003"
+    ],
+    "shogaol": [
+      "plant_003"
+    ],
+    "zingerone": [
+      "plant_003"
+    ],
+    "xanthorrhizol": [
+      "plant_004"
+    ],
+    "germakron": [
+      "plant_004",
+      "plant_054",
+      "plant_055"
+    ],
+    "sinensetin": [
+      "plant_005"
+    ],
+    "flavonoid": [
+      "plant_005",
+      "plant_006",
+      "plant_008",
+      "plant_009",
+      "plant_011",
+      "plant_014",
+      "plant_020",
+      "plant_021",
+      "plant_022",
+      "plant_025",
+      "plant_029",
+      "plant_030",
+      "plant_034",
+      "plant_037",
+      "plant_038",
+      "plant_039",
+      "plant_040",
+      "plant_044",
+      "plant_045",
+      "plant_047",
+      "plant_048",
+      "plant_052",
+      "plant_053"
+    ],
+    "saponin": [
+      "plant_005",
+      "plant_008",
+      "plant_011",
+      "plant_014",
+      "plant_021",
+      "plant_030",
+      "plant_039",
+      "plant_044",
+      "plant_047",
+      "plant_052",
+      "plant_053"
+    ],
+    "tanin": [
+      "plant_005",
+      "plant_011",
+      "plant_022",
+      "plant_029",
+      "plant_031",
+      "plant_036",
+      "plant_039",
+      "plant_045",
+      "plant_047",
+      "plant_048"
+    ],
+    "kalium": [
+      "plant_005",
+      "plant_021"
+    ],
+    "andrographolide": [
+      "plant_006"
+    ],
+    "neoandrographolide": [
+      "plant_006"
+    ],
+    "scopoletin": [
+      "plant_007"
+    ],
+    "antrakuinon": [
+      "plant_007",
+      "plant_049"
+    ],
+    "terpenoid": [
+      "plant_007",
+      "plant_011",
+      "plant_014"
+    ],
+    "xeronine": [
+      "plant_007"
+    ],
+    "alkaloid": [
+      "plant_008",
+      "plant_009",
+      "plant_014",
+      "plant_024",
+      "plant_037",
+      "plant_038",
+      "plant_040",
+      "plant_048"
+    ],
+    "polifenol": [
+      "plant_008",
+      "plant_016",
+      "plant_020",
+      "plant_021"
+    ],
+    "mahkoside": [
+      "plant_008"
+    ],
+    "acetogenin": [
+      "plant_009"
+    ],
+    "annonacin": [
+      "plant_009"
+    ],
+    "asiaticoside": [
+      "plant_010"
+    ],
+    "madecassoside": [
+      "plant_010"
+    ],
+    "asiatic acid": [
+      "plant_010"
+    ],
+    "triterpenoid": [
+      "plant_010"
+    ],
+    "quercetin": [
+      "plant_011",
+      "plant_012",
+      "plant_031"
+    ],
+    "kaempferol": [
+      "plant_012",
+      "plant_027",
+      "plant_034"
+    ],
+    "zeatin": [
+      "plant_012"
+    ],
+    "beta-sitosterol": [
+      "plant_012"
+    ],
+    "aloin": [
+      "plant_013"
+    ],
+    "aloe-emodin": [
+      "plant_013"
+    ],
+    "acemannan": [
+      "plant_013"
+    ],
+    "polisakarida": [
+      "plant_013"
+    ],
+    "asam askorbat": [
+      "plant_014"
+    ],
+    "chavicol": [
+      "plant_015"
+    ],
+    "eugenol": [
+      "plant_015",
+      "plant_016",
+      "plant_017",
+      "plant_029"
+    ],
+    "hydroxychavicol": [
+      "plant_015"
+    ],
+    "allylpyrocatechol": [
+      "plant_015"
+    ],
+    "cinnamaldehyde": [
+      "plant_016"
+    ],
+    "coumarin": [
+      "plant_016"
+    ],
+    "acetyl eugenol": [
+      "plant_017"
+    ],
+    "beta-caryophyllene": [
+      "plant_017"
+    ],
+    "citral": [
+      "plant_018"
+    ],
+    "geraniol": [
+      "plant_018",
+      "plant_046"
+    ],
+    "citronellal": [
+      "plant_018"
+    ],
+    "limonene": [
+      "plant_018",
+      "plant_028",
+      "plant_043"
+    ],
+    "thymoquinone": [
+      "plant_019"
+    ],
+    "thymohydroquinone": [
+      "plant_019"
+    ],
+    "nigellone": [
+      "plant_019"
+    ],
+    "alpha-pinene": [
+      "plant_019"
+    ],
+    "antosianin": [
+      "plant_020",
+      "plant_034",
+      "plant_047"
+    ],
+    "asam hibiscus": [
+      "plant_020"
+    ],
+    "silika": [
+      "plant_021"
+    ],
+    "filantin": [
+      "plant_022"
+    ],
+    "hipofilantin": [
+      "plant_022"
+    ],
+    "vincristine": [
+      "plant_023"
+    ],
+    "vinblastine": [
+      "plant_023"
+    ],
+    "alkaloid vinca": [
+      "plant_023"
+    ],
+    "berberin": [
+      "plant_024",
+      "plant_041"
+    ],
+    "tinokrisposid": [
+      "plant_024"
+    ],
+    "diterpenoid": [
+      "plant_024"
+    ],
+    "pinostrobin": [
+      "plant_025"
+    ],
+    "panduratin a": [
+      "plant_025"
+    ],
+    "1'-acetoxychavicol acetate": [
+      "plant_026"
+    ],
+    "galangin": [
+      "plant_026"
+    ],
+    "alpinetin": [
+      "plant_026"
+    ],
+    "ethyl p-methoxycinnamate": [
+      "plant_027"
+    ],
+    "borneol": [
+      "plant_027"
+    ],
+    "1,8-cineole": [
+      "plant_028"
+    ],
+    "alpha-terpinyl acetate": [
+      "plant_028"
+    ],
+    "minyak atsiri": [
+      "plant_029"
+    ],
+    "papaverine": [
+      "plant_030"
+    ],
+    "asam amino": [
+      "plant_030"
+    ],
+    "guaijaverin": [
+      "plant_031"
+    ],
+    "vitamin c": [
+      "plant_031",
+      "plant_043"
+    ],
+    "zerumbone": [
+      "plant_032"
+    ],
+    "humulene": [
+      "plant_032"
+    ],
+    "caryophyllene": [
+      "plant_032"
+    ],
+    "cubebin": [
+      "plant_033"
+    ],
+    "cubebene": [
+      "plant_033"
+    ],
+    "sabinene": [
+      "plant_033"
+    ],
+    "piperine": [
+      "plant_033"
+    ],
+    "delphinidin": [
+      "plant_034"
+    ],
+    "anethole": [
+      "plant_035"
+    ],
+    "fenchone": [
+      "plant_035"
+    ],
+    "estragole": [
+      "plant_035"
+    ],
+    "xanthone": [
+      "plant_036"
+    ],
+    "alpha-mangostin": [
+      "plant_036"
+    ],
+    "gamma-mangostin": [
+      "plant_036"
+    ],
+    "2-acetyl-1-pyrroline": [
+      "plant_037"
+    ],
+    "papain": [
+      "plant_038"
+    ],
+    "carpaine": [
+      "plant_038"
+    ],
+    "steroid": [
+      "plant_039",
+      "plant_040",
+      "plant_048"
+    ],
+    "glikosida": [
+      "plant_040"
+    ],
+    "palmatine": [
+      "plant_041"
+    ],
+    "jatrorrhizine": [
+      "plant_041"
+    ],
+    "abrin": [
+      "plant_042"
+    ],
+    "glycyrrhizin": [
+      "plant_042"
+    ],
+    "abrusoside": [
+      "plant_042"
+    ],
+    "citric acid": [
+      "plant_043"
+    ],
+    "hesperidin": [
+      "plant_043"
+    ],
+    "oxalic acid": [
+      "plant_044"
+    ],
+    "arecoline": [
+      "plant_045"
+    ],
+    "arecaidine": [
+      "plant_045"
+    ],
+    "linalool": [
+      "plant_046"
+    ],
+    "benzyl acetate": [
+      "plant_046"
+    ],
+    "ylang-ylang oil": [
+      "plant_046"
+    ],
+    "eleutherinol": [
+      "plant_049"
+    ],
+    "naftokuinon": [
+      "plant_049"
+    ],
+    "alstonine": [
+      "plant_050"
+    ],
+    "echitamine": [
+      "plant_050"
+    ],
+    "alkaloid indol": [
+      "plant_050"
+    ],
+    "asperuloside": [
+      "plant_051"
+    ],
+    "oleanolic acid": [
+      "plant_051"
+    ],
+    "ursolic acid": [
+      "plant_051"
+    ],
+    "jengkolic acid": [
+      "plant_052"
+    ],
+    "thiazolidine-4-carboxylic acid": [
+      "plant_053"
+    ],
+    "zedoary": [
+      "plant_054"
+    ],
+    "kurkumenol": [
+      "plant_055"
+    ]
+  },
+  "benefit_index": {
+    "afrodisiaka": [
+      "plant_001",
+      "plant_025"
+    ],
+    "meningkatkan stamina": [
+      "plant_001"
+    ],
+    "antimalaria": [
+      "plant_001",
+      "plant_050"
+    ],
+    "antioksidan": [
+      "plant_001",
+      "plant_002",
+      "plant_003",
+      "plant_004",
+      "plant_005",
+      "plant_007",
+      "plant_009",
+      "plant_010",
+      "plant_011",
+      "plant_012",
+      "plant_014",
+      "plant_015",
+      "plant_016",
+      "plant_017",
+      "plant_018",
+      "plant_019",
+      "plant_020",
+      "plant_021",
+      "plant_025",
+      "plant_026",
+      "plant_028",
+      "plant_029",
+      "plant_030",
+      "plant_031",
+      "plant_032",
+      "plant_034",
+      "plant_036",
+      "plant_037",
+      "plant_043",
+      "plant_047",
+      "plant_049",
+      "plant_053",
+      "plant_055"
+    ],
+    "antiinflamasi": [
+      "plant_002",
+      "plant_003",
+      "plant_004",
+      "plant_006",
+      "plant_008",
+      "plant_009",
+      "plant_010",
+      "plant_011",
+      "plant_012",
+      "plant_013",
+      "plant_014",
+      "plant_016",
+      "plant_019",
+      "plant_026",
+      "plant_027",
+      "plant_032",
+      "plant_034",
+      "plant_036",
+      "plant_039",
+      "plant_040",
+      "plant_041",
+      "plant_042",
+      "plant_044",
+      "plant_048",
+      "plant_051",
+      "plant_054",
+      "plant_055"
+    ],
+    "hepatoprotektif": [
+      "plant_002",
+      "plant_004",
+      "plant_006",
+      "plant_020",
+      "plant_022",
+      "plant_051",
+      "plant_055"
+    ],
+    "antimikroba": [
+      "plant_002",
+      "plant_016",
+      "plant_018",
+      "plant_027",
+      "plant_028",
+      "plant_029",
+      "plant_031",
+      "plant_041",
+      "plant_042",
+      "plant_043",
+      "plant_049",
+      "plant_052"
+    ],
+    "antiemetik": [
+      "plant_003",
+      "plant_028"
+    ],
+    "menghangatkan tubuh": [
+      "plant_003"
+    ],
+    "meningkatkan nafsu makan": [
+      "plant_004",
+      "plant_054"
+    ],
+    "diuretik": [
+      "plant_005",
+      "plant_020",
+      "plant_021",
+      "plant_022",
+      "plant_033"
+    ],
+    "antihipertensi": [
+      "plant_005",
+      "plant_007",
+      "plant_008",
+      "plant_020",
+      "plant_023",
+      "plant_029",
+      "plant_039",
+      "plant_044",
+      "plant_053"
+    ],
+    "antidiabetes": [
+      "plant_005",
+      "plant_006",
+      "plant_008",
+      "plant_009",
+      "plant_012",
+      "plant_016",
+      "plant_019",
+      "plant_021",
+      "plant_023",
+      "plant_024",
+      "plant_029",
+      "plant_031",
+      "plant_037",
+      "plant_038",
+      "plant_039",
+      "plant_041",
+      "plant_044",
+      "plant_052",
+      "plant_053"
+    ],
+    "imunomodulator": [
+      "plant_006",
+      "plant_007",
+      "plant_019",
+      "plant_022",
+      "plant_024"
+    ],
+    "antikanker": [
+      "plant_007",
+      "plant_008",
+      "plant_009",
+      "plant_011",
+      "plant_023",
+      "plant_032",
+      "plant_036",
+      "plant_040",
+      "plant_049",
+      "plant_051"
+    ],
+    "nootropik": [
+      "plant_010",
+      "plant_034"
+    ],
+    "penyembuhan luka": [
+      "plant_010",
+      "plant_011",
+      "plant_013",
+      "plant_014",
+      "plant_047"
+    ],
+    "nutrisi tinggi": [
+      "plant_012",
+      "plant_030"
+    ],
+    "melembabkan kulit": [
+      "plant_013"
+    ],
+    "pencahar": [
+      "plant_013",
+      "plant_048"
+    ],
+    "antibakteri": [
+      "plant_014",
+      "plant_015",
+      "plant_017",
+      "plant_025",
+      "plant_026",
+      "plant_033",
+      "plant_036"
+    ],
+    "antijamur": [
+      "plant_015",
+      "plant_018",
+      "plant_025",
+      "plant_026"
+    ],
+    "menghilangkan bau mulut": [
+      "plant_015"
+    ],
+    "analgesik": [
+      "plant_017",
+      "plant_027",
+      "plant_032"
+    ],
+    "antiseptik": [
+      "plant_017",
+      "plant_046"
+    ],
+    "relaksan": [
+      "plant_018",
+      "plant_046"
+    ],
+    "meluruhkan batu ginjal": [
+      "plant_021"
+    ],
+    "antivirus": [
+      "plant_022"
+    ],
+    "antipiretik": [
+      "plant_024",
+      "plant_050"
+    ],
+    "antimalarial": [
+      "plant_024",
+      "plant_038"
+    ],
+    "ekspektoran": [
+      "plant_027",
+      "plant_033",
+      "plant_035",
+      "plant_042"
+    ],
+    "karminatif": [
+      "plant_028",
+      "plant_033",
+      "plant_035"
+    ],
+    "laktagog": [
+      "plant_030",
+      "plant_035"
+    ],
+    "antidiare": [
+      "plant_031",
+      "plant_047",
+      "plant_050"
+    ],
+    "pewarna alami": [
+      "plant_034"
+    ],
+    "antispasmodik": [
+      "plant_035"
+    ],
+    "pewangi alami": [
+      "plant_037"
+    ],
+    "meningkatkan trombosit": [
+      "plant_038"
+    ],
+    "pencernaan": [
+      "plant_038"
+    ],
+    "detoksifikasi": [
+      "plant_040"
+    ],
+    "meningkatkan imunitas": [
+      "plant_043"
+    ],
+    "anthelmintik": [
+      "plant_045",
+      "plant_054"
+    ],
+    "stimulan": [
+      "plant_045"
+    ],
+    "astringen": [
+      "plant_045"
+    ],
+    "aromaterapi": [
+      "plant_046"
+    ],
+    "antihemoroid": [
+      "plant_048"
+    ]
+  }
+}

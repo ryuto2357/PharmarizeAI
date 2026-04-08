@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "title": "Pasak Bumi - Tumbuhan Obat Indonesia",
+      "paragraphs": [
+        {
+          "context": "Tumbuhan pasak bumi (Eurycoma longifolia) merupakan tumbuhan obat tradisional yang tumbuh di hutan-hutan tropis Indonesia, khususnya di wilayah Kalimantan dan Sumatera. Pasak bumi memiliki kandungan utama berupa eurycomanone dan alkaloid yang bermanfaat untuk meningkatkan stamina, vitalitas, dan sistem imun tubuh. Akar pasak bumi telah digunakan dalam pengobatan tradisional selama berabad-abad oleh masyarakat Indonesia untuk mengatasi kelelahan dan meningkatkan daya tahan tubuh.",
+          "qas": [
+            {
+              "question": "Apa nama ilmiah dari pasak bumi?",
+              "id": "q001",
+              "answers": [
+                {
+                  "text": "Eurycoma longifolia",
+                  "answer_start": 17
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Di mana pasak bumi tumbuh?",
+              "id": "q002",
+              "answers": [
+                {
+                  "text": "hutan-hutan tropis Indonesia, khususnya di wilayah Kalimantan dan Sumatera",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa kandungan utama pasak bumi?",
+              "id": "q003",
+              "answers": [
+                {
+                  "text": "eurycomanone dan alkaloid",
+                  "answer_start": 175
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Manfaat apa yang diberikan pasak bumi bagi tubuh?",
+              "id": "q004",
+              "answers": [
+                {
+                  "text": "meningkatkan stamina, vitalitas, dan sistem imun tubuh",
+                  "answer_start": 219
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Bagian apa dari pasak bumi yang digunakan dalam pengobatan tradisional?",
+              "id": "q005",
+              "answers": [
+                {
+                  "text": "Akar",
+                  "answer_start": 297
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kunyit - Rempah Multifungsi",
+      "paragraphs": [
+        {
+          "context": "Kunyit (Curcuma longa) adalah rempah-rempah yang berasal dari Asia Tenggara dan telah digunakan dalam pengobatan tradisional Indonesia selama ribuan tahun. Kandungan utama kunyit adalah kurkumin, senyawa fenol yang memiliki sifat antioksidan dan anti-inflamasi yang kuat. Kunyit biasa dikonsumsi dalam bentuk minuman hangat dengan air, santan, atau dicampurkan ke dalam makanan untuk menjaga kesehatan pencernaan, mengurangi peradangan, dan meningkatkan kekebalan tubuh.",
+          "qas": [
+            {
+              "question": "Apa nama ilmiah kunyit?",
+              "id": "q006",
+              "answers": [
+                {
+                  "text": "Curcuma longa",
+                  "answer_start": 7
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Dari mana asal kunyit?",
+              "id": "q007",
+              "answers": [
+                {
+                  "text": "Asia Tenggara",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa kandungan utama yang terdapat dalam kunyit?",
+              "id": "q008",
+              "answers": [
+                {
+                  "text": "kurkumin",
+                  "answer_start": 166
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa jenis senyawa yang terkandung dalam kurkumin?",
+              "id": "q009",
+              "answers": [
+                {
+                  "text": "fenol",
+                  "answer_start": 177
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Manfaat apa saja yang dimiliki kunyit?",
+              "id": "q010",
+              "answers": [
+                {
+                  "text": "antioksidan dan anti-inflamasi",
+                  "answer_start": 209
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Bagaimana cara mengkonsumsi kunyit untuk kesehatan?",
+              "id": "q011",
+              "answers": [
+                {
+                  "text": "dalam bentuk minuman hangat dengan air, santan, atau dicampurkan ke dalam makanan",
+                  "answer_start": 275
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jahe - Tanaman Obat Pemanasan Tubuh",
+      "paragraphs": [
+        {
+          "context": "Jahe (Zingiber officinale) adalah tanaman herbal yang telah digunakan dalam pengobatan tradisional Tiongkok dan Indonesia untuk menghangatkan tubuh dan meredakan berbagai penyakit. Jahe mengandung gingerol dan shogaol yang memberikan rasa pedas dan memiliki efek antiinflamasi. Konsumsi jahe secara rutin dapat membantu meningkatkan sirkulasi darah, mengurangi mual, meredakan sakit kepala, dan meningkatkan metabolisme tubuh.",
+          "qas": [
+            {
+              "question": "Apa nama ilmiah jahe?",
+              "id": "q012",
+              "answers": [
+                {
+                  "text": "Zingiber officinale",
+                  "answer_start": 6
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa kandungan aktif dalam jahe yang memberikan rasa pedas?",
+              "id": "q013",
+              "answers": [
+                {
+                  "text": "gingerol dan shogaol",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa manfaat gingerol dan shogaol dalam jahe?",
+              "id": "q014",
+              "answers": [
+                {
+                  "text": "antiinflamasi",
+                  "answer_start": 195
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Sebutkan manfaat kesehatan dari konsumsi jahe secara rutin.",
+              "id": "q015",
+              "answers": [
+                {
+                  "text": "meningkatkan sirkulasi darah, mengurangi mual, meredakan sakit kepala, dan meningkatkan metabolisme tubuh",
+                  "answer_start": 236
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Temulawak - Penyeimbang Pencernaan",
+      "paragraphs": [
+        {
+          "context": "Temulawak (Curcuma xanthorrhiza) adalah tanaman obat asli Indonesia yang sering digunakan sebagai jamu tradisional untuk menjaga kesehatan hati dan pencernaan. Tanaman ini mengandung kurkuminoid dan minyak atsiri yang memiliki sifat hepatoprotektif untuk melindungi hati dari kerusakan. Temulawak telah terbukti secara klinis dapat meningkatkan produksi empedu, memfasilitasi pencernaan lemak, dan mengurangi rasa tidak nyaman pada perut.",
+          "qas": [
+            {
+              "question": "Apa nama ilmiah temulawak?",
+              "id": "q016",
+              "answers": [
+                {
+                  "text": "Curcuma xanthorrhiza",
+                  "answer_start": 11
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Asal tanaman obat temulawak berasal dari mana?",
+              "id": "q017",
+              "answers": [
+                {
+                  "text": "Indonesia",
+                  "answer_start": 77
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa kandungan aktif yang ada dalam temulawak?",
+              "id": "q018",
+              "answers": [
+                {
+                  "text": "kurkuminoid dan minyak atsiri",
+                  "answer_start": 150
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa sifat yang dimiliki oleh kandungan temulawak?",
+              "id": "q019",
+              "answers": [
+                {
+                  "text": "hepatoprotektif",
+                  "answer_start": 193
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa manfaat klinis dari temulawak untuk pencernaan?",
+              "id": "q020",
+              "answers": [
+                {
+                  "text": "meningkatkan produksi empedu, memfasilitasi pencernaan lemak, dan mengurangi rasa tidak nyaman pada perut",
+                  "answer_start": 246
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bangle - Tanaman Antioksidan",
+      "paragraphs": [
+        {
+          "context": "Bangle (Zingiber cassumunar) adalah tanaman herbal Indonesia yang memiliki aroma khas dan telah digunakan dalam pengobatan tradisional untuk mengatasi peradangan dan meningkatkan kekebalan imun. Bangle mengandung senyawa aktif seperti kamfena, pinena, dan eugenol yang memberikan efek antioksidan kuat. Riset modern telah membuktikan bahwa ekstrak bangle memiliki kemampuan untuk menghambat pertumbuhan bakteri patogen dan virus, sehingga sangat bermanfaat untuk menjaga kesehatan respir atori.",
+          "qas": [
+            {
+              "question": "Apa nama ilmiah bangle?",
+              "id": "q021",
+              "answers": [
+                {
+                  "text": "Zingiber cassumunar",
+                  "answer_start": 7
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Apa senyawa aktif yang terutama terdapat dalam bangle?",
+              "id": "q022",
+              "answers": [
+                {
+                  "text": "kamfena, pinena, dan eugenol",
+                  "answer_start": 157
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kemampuan apa yang dimiliki oleh ekstrak bangle menurut riset modern?",
+              "id": "q023",
+              "answers": [
+                {
+                  "text": "menghambat pertumbuhan bakteri patogen dan virus",
+                  "answer_start": 271
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
