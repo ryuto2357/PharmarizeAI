@@ -48,7 +48,7 @@ data/processed/
 
 # Models
 models/checkpoints/
-models/pharmarize_qa_model/
+# models/pharmarize_qa_model/
 *.pt
 *.pth
 *.h5
